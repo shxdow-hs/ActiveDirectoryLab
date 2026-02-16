@@ -38,4 +38,8 @@ Installing Active Directory Domain Services: <br/>
 <img src="https://i.imgur.com/DC362V1.png" height="80%" width="80%" alt="AD Domain Services2"/>
 <br />
 <br />
+<br/>
+<img src="" height="80%" width="80%" alt=""/>
+<br />
+<br />
 </p>
